@@ -1,0 +1,15 @@
+/* h1{color:rgb(47, 47, 103)} */
+
+.header{
+
+display: flex;
+justify-content:space-around;
+background-color: rgb(135, 135, 241);
+    color:rgb(252, 249, 249);
+}
+
+.links {
+
+   display: flex;
+   gap: 20px;
+}

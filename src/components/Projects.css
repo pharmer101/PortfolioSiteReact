@@ -1,0 +1,19 @@
+.boxes {
+
+    
+    height: 250px;
+    max-width: 500px;
+    margin: 30px;
+    color: white;
+    background-color: rgb(79, 79, 241);
+    border: 5px solid rgb(0, 0, 0);
+    padding: 30px;
+
+}
+.boxes a {
+
+    display: block;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
